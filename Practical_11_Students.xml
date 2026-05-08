@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Practical_11_Style.css"?>
+<students>
+    <student>
+        <id>101</id>
+        <name>Mansi Bhatmare</name>
+        <age>20</age>
+        <department>Computer Science</department>
+        <email>mansibhatmare@gmail.com</email>
+    </student>
+    <student>
+        <id>102</id>
+        <name>Shravani Sankpal</name>
+        <age>21</age>
+        <department>Information Technology</department>
+        <email>shravani@gmail.com</email>
+    </student>
+    <student>
+        <id>103</id>
+        <name>Minal Raut</name>
+        <age>22</age>
+        <department>Artificial Intelligence</department>
+        <email>minalraut@gmail.com</email>
+    </student>
+</students>
